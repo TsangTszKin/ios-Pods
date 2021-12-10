@@ -1,0 +1,6 @@
+module Pods_reactnative_redux_axios_mock_starkit {
+  umbrella header "Pods-reactnative_redux_axios_mock_starkit-umbrella.h"
+
+  export *
+  module * { export * }
+}

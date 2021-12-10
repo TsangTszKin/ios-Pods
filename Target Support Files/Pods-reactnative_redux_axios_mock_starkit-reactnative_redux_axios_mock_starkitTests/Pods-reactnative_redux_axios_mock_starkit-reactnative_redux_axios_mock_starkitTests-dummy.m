@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_reactnative_redux_axios_mock_starkit_reactnative_redux_axios_mock_starkitTests : NSObject
+@end
+@implementation PodsDummy_Pods_reactnative_redux_axios_mock_starkit_reactnative_redux_axios_mock_starkitTests
+@end
